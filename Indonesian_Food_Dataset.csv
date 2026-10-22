@@ -1,0 +1,151 @@
+No,Nama_Makanan,Jenis_Makanan,Harga_per_Porsi_Ribu_Rp,Rating,Daerah_Asal
+1,Rawon,Non-Vegetarian,33,3.5,Jawa
+2,Daun Ubi Tumbuk,Vegan,36,4.8,Sumatera
+3,Bubur Kampiun,Vegan,33,4.8,Sumatera
+4,Gado-Gado,Vegetarian,27,3.2,Jawa
+5,Tum Sayur,Vegetarian,31,3.9,Bali
+6,Sayur Lodeh,Vegetarian,25,4.0,Jawa
+7,Sambal Lado Mudo,Vegetarian,34,3.6,Sumatera
+8,Ayam Goreng,Non-Vegetarian,37,3.1,Jawa
+9,Pecel,Vegetarian,34,3.5,Jawa
+10,Sayur Bunga Pepaya,Vegetarian,35,3.2,Sulawesi
+11,Sambal Tunjang,Vegan,31,3.5,Sumatera
+12,Gulai Nangka,Vegetarian,28,4.6,Sumatera
+13,Daun Ubi Tumbuk,Vegan,43,4.8,Sumatera
+14,Urap,Vegan,38,3.1,Jawa
+15,Karedok,Vegetarian,32,3.6,Jawa
+16,Lawar,Non-Vegetarian,31,5.0,Bali
+17,Gulai Ikan,Non-Vegetarian,49,4.1,Sumatera
+18,Ayam Goreng,Non-Vegetarian,46,4.3,Jawa
+19,Bakso,Non-Vegetarian,47,3.0,Jawa
+20,Sayur Asem,Vegan,43,4.0,Jawa
+21,Jukut Urab,Vegetarian,25,5.0,Bali
+22,Urap,Vegan,31,3.8,Jawa
+23,Lotek,Vegan,42,3.2,Jawa
+24,Soto Ayam,Non-Vegetarian,51,3.9,Jawa
+25,Sayur Asem,Vegan,36,4.9,Jawa
+26,Ayam Goreng,Non-Vegetarian,51,3.7,Jawa
+27,Bakso,Non-Vegetarian,54,4.6,Jawa
+28,Tum Sayur,Vegetarian,25,4.6,Bali
+29,Ayam Goreng,Non-Vegetarian,53,3.4,Jawa
+30,Soto Ayam,Non-Vegetarian,36,3.9,Jawa
+31,Lawar Sayur,Vegetarian,38,4.4,Bali
+32,Soto Ayam,Non-Vegetarian,39,3.8,Jawa
+33,Babi Guling,Non-Vegetarian,41,3.4,Bali
+34,Soto Ayam,Non-Vegetarian,33,4.9,Jawa
+35,Perkedel Jagung,Vegetarian,42,4.3,Sumatera
+36,Rawon,Non-Vegetarian,32,4.7,Jawa
+37,Tahu Tek,Vegetarian,36,3.1,Jawa
+38,Pecel,Vegetarian,26,3.5,Jawa
+39,Tempe Bacem,Vegan,38,4.0,Jawa
+40,Karedok,Vegetarian,41,3.1,Jawa
+41,Pelecing Kangkung,Vegan,40,5.0,Bali
+42,Keripik Sanjay,Vegan,36,3.5,Sumatera
+43,Lotek,Vegan,36,3.7,Jawa
+44,Sate Padang,Non-Vegetarian,39,3.4,Sumatera
+45,Sayur Lodeh,Vegetarian,31,3.2,Jawa
+46,Soto Ayam,Non-Vegetarian,40,3.5,Jawa
+47,Sayur Asem,Vegan,38,3.6,Jawa
+48,Tum Sayur,Vegetarian,27,4.3,Bali
+49,Sayur Pakis,Vegetarian,29,3.6,Sumatera
+50,Gado-Gado,Vegetarian,27,3.7,Jawa
+51,Sayur Bunga Pepaya,Vegetarian,41,3.0,Sulawesi
+52,Sate Lilit Sayur,Vegetarian,38,3.7,Bali
+53,Tempe Bacem,Vegan,31,4.1,Jawa
+54,Rujak Sambal Luat,Vegan,30,3.3,Sulawesi
+55,Konro,Non-Vegetarian,49,4.2,Sulawesi
+56,Tahu Tek,Vegetarian,40,3.6,Jawa
+57,Sambal Lado Mudo,Vegetarian,27,4.3,Sumatera
+58,Lotek,Vegan,46,3.1,Jawa
+59,Lotek,Vegan,43,4.8,Jawa
+60,Karedok,Vegetarian,44,3.0,Jawa
+61,Gado-Gado,Vegetarian,44,3.3,Jawa
+62,Sayur Asem,Vegan,33,4.6,Jawa
+63,Bakso,Non-Vegetarian,44,3.1,Jawa
+64,Gudeg,Non-Vegetarian,48,4.4,Jawa
+65,Sayur Bunga Pepaya,Vegetarian,25,4.9,Sulawesi
+66,Gudeg,Non-Vegetarian,41,4.7,Jawa
+67,Gulai Nangka,Vegetarian,35,4.4,Sumatera
+68,Karedok,Vegetarian,37,4.9,Jawa
+69,Tempe Bacem,Vegan,43,3.9,Jawa
+70,Gado-Gado,Vegetarian,29,4.7,Jawa
+71,Sate Lilit Ikan,Non-Vegetarian,42,3.7,Bali
+72,Sayur Lodeh,Vegetarian,30,4.9,Jawa
+73,Ayam Goreng,Non-Vegetarian,44,3.3,Jawa
+74,Nasi Campur Bali,Vegetarian,44,4.9,Bali
+75,Jukut Urab,Vegetarian,28,4.7,Bali
+76,Pecel,Vegetarian,35,4.7,Jawa
+77,Sate Padang,Non-Vegetarian,47,3.2,Sumatera
+78,Sayur Lodeh,Vegetarian,26,4.2,Jawa
+79,Ayam Goreng,Non-Vegetarian,50,3.0,Jawa
+80,Lawar,Non-Vegetarian,47,4.4,Bali
+81,Soto Ayam,Non-Vegetarian,33,3.0,Jawa
+82,Sambal Lado Mudo,Vegetarian,25,3.2,Sumatera
+83,Sambal Matah,Vegan,42,3.5,Bali
+84,Nasi Liwet Sayur,Vegan,30,4.8,Jawa
+85,Urap,Vegan,43,3.7,Jawa
+86,Pecel,Vegetarian,36,4.1,Jawa
+87,Daun Ubi Tumbuk,Vegan,44,4.1,Sumatera
+88,Jukut Kalas,Vegan,33,3.5,Bali
+89,Urap,Vegan,33,4.1,Jawa
+90,Tempe Bacem,Vegan,44,4.3,Jawa
+91,Dendeng Balado Jamur,Vegetarian,36,3.6,Sumatera
+92,Nasi Campur Bali,Vegetarian,33,3.8,Bali
+93,Sambal Lado Mudo,Vegetarian,27,3.9,Sumatera
+94,Sayur Lodeh,Vegetarian,31,4.9,Jawa
+95,Gulai Ikan,Non-Vegetarian,54,4.2,Sumatera
+96,Sayur Lodeh,Vegetarian,28,4.9,Jawa
+97,Ayam Goreng,Non-Vegetarian,36,4.1,Jawa
+98,Keripik Sanjay,Vegan,43,4.0,Sumatera
+99,Lotek,Vegan,37,3.0,Jawa
+100,Sayur Pakis,Vegetarian,40,4.0,Sumatera
+101,Nasi Liwet Sayur,Vegan,31,4.9,Jawa
+102,Pecel,Vegetarian,41,3.4,Jawa
+103,Konro,Non-Vegetarian,52,3.1,Sulawesi
+104,Nasi Liwet Sayur,Vegan,45,3.8,Jawa
+105,Daun Ubi Tumbuk,Vegan,35,3.7,Sumatera
+106,Tahu Tek,Vegetarian,26,4.7,Jawa
+107,Asam Padeh Gulai,Vegan,38,3.1,Sumatera
+108,Rawon,Non-Vegetarian,54,4.8,Jawa
+109,Tahu Tek,Vegetarian,42,4.4,Jawa
+110,Ayam Pop,Non-Vegetarian,31,4.8,Sumatera
+111,Keripik Sanjay,Vegan,38,4.2,Sumatera
+112,Sate Padang,Non-Vegetarian,48,4.6,Sumatera
+113,Karedok,Vegetarian,42,3.7,Jawa
+114,Soto Ayam,Non-Vegetarian,52,3.7,Jawa
+115,Urap,Vegan,45,3.8,Jawa
+116,Soto Ayam,Non-Vegetarian,33,4.5,Jawa
+117,Nasi Campur Bali,Vegetarian,39,3.7,Bali
+118,Karedok,Vegetarian,40,3.5,Jawa
+119,Keripik Sanjay,Vegan,47,4.9,Sumatera
+120,Gohu Ikan (Vegetarian),Vegetarian,32,4.8,Sulawesi
+121,Lawar,Non-Vegetarian,39,3.7,Bali
+122,Rawon,Non-Vegetarian,47,4.3,Jawa
+123,Rawon,Non-Vegetarian,42,3.5,Jawa
+124,Sayur Kelor,Vegan,36,3.4,Sulawesi
+125,Sambal Matah,Vegan,42,3.7,Bali
+126,Sambal Matah,Vegan,46,3.7,Bali
+127,Karedok,Vegetarian,32,4.8,Jawa
+128,Perkedel Jagung,Vegetarian,40,4.6,Sumatera
+129,Pecel,Vegetarian,32,4.4,Jawa
+130,Urap,Vegan,49,4.9,Jawa
+131,Rujak Kuah Pindang,Vegan,34,3.8,Bali
+132,Lotek,Vegan,37,3.5,Jawa
+133,Lawar,Non-Vegetarian,36,3.2,Bali
+134,Gudeg,Non-Vegetarian,35,3.6,Jawa
+135,Soto Ayam,Non-Vegetarian,42,3.3,Jawa
+136,Gado-Gado,Vegetarian,29,3.2,Jawa
+137,Jukut Urab,Vegetarian,38,4.2,Bali
+138,Perkedel Jagung,Vegetarian,43,3.7,Sumatera
+139,Tempe Mendoan Bali,Vegan,49,4.1,Bali
+140,Babi Guling,Non-Vegetarian,36,3.4,Bali
+141,Sate Lilit Sayur,Vegetarian,37,4.4,Bali
+142,Rawon,Non-Vegetarian,49,3.4,Jawa
+143,Rawon,Non-Vegetarian,41,3.6,Jawa
+144,Dendeng Balado Jamur,Vegetarian,39,4.5,Sumatera
+145,Tahu Tek,Vegetarian,31,4.1,Jawa
+146,Sate Lilit Ikan,Non-Vegetarian,53,3.7,Bali
+147,Pecel,Vegetarian,27,4.1,Jawa
+148,Karedok,Vegetarian,39,4.4,Jawa
+149,Keripik Sanjay,Vegan,42,4.8,Sumatera
+150,Urap,Vegan,34,4.2,Jawa
